@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9d53QcAXdpWeKIdPpOdgF73p3bi5fiPAmqwsbxsY9SQ=",
+  "Source": "ZooTicketing.API",
+  "BasePath": "_content/ZooTicketing.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
